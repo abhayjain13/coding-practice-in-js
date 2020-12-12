@@ -1,1 +1,1 @@
-# coding-practice-in-js
+# Coding Practice In JS
