@@ -11,3 +11,4 @@
 | square-every-digit.js | Square every digit of a number and concatenate them. |
 | vowel-count.js | Return the number (count) of vowels in the given string. |
 | your-order-please.js | Your task is to sort a given string. Each word in the string will contain a single number. This number is the position the word should have in the result. |
+| string-repeat.js | Write a function called repeat_str which repeats the given string src exactly count times. |
