@@ -13,3 +13,4 @@
 | your-order-please.js | Your task is to sort a given string. Each word in the string will contain a single number. This number is the position the word should have in the result. |
 | string-repeat.js | Write a function called repeat_str which repeats the given string src exactly count times. |
 | format-a-string.js | Given an array containing hashes, return the name. |
+| iq.js | The most frequent task in this test is to find out which one of the given numbers differs from the others. |
