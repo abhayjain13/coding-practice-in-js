@@ -14,3 +14,4 @@
 | string-repeat.js | Write a function called repeat_str which repeats the given string src exactly count times. |
 | format-a-string.js | Given an array containing hashes, return the name. |
 | iq.js | The most frequent task in this test is to find out which one of the given numbers differs from the others. |
+| triangle.js | Is this a triangle? |
