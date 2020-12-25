@@ -16,3 +16,4 @@
 | iq.js | The most frequent task in this test is to find out which one of the given numbers differs from the others. |
 | triangle.js | Is this a triangle? |
 | consecutive-strings.js | Consecutive strings |
+| casing-strings.js | Jaden Casing Strings |
