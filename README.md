@@ -17,3 +17,4 @@
 | triangle.js | Is this a triangle? |
 | consecutive-strings.js | Consecutive strings |
 | casing-strings.js | Jaden Casing Strings |
+| complementary-dna.js | Complementary DNA |
