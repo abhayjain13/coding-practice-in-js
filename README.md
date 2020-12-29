@@ -18,3 +18,4 @@
 | consecutive-strings.js | Consecutive strings |
 | casing-strings.js | Jaden Casing Strings |
 | complementary-dna.js | Complementary DNA |
+| sum-of-first-nth-term.js | Sum of the first nth term of Series |
