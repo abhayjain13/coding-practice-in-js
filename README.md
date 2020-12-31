@@ -20,3 +20,4 @@
 | complementary-dna.js | Complementary DNA |
 | sum-of-first-nth-term.js | Sum of the first nth term of Series |
 | number-of-people-in-the-bus.js | Number of People in the Bus |
+| calculating-with-functions.js | Calculating with Functions |
