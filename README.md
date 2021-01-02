@@ -22,3 +22,4 @@
 | number-of-people-in-the-bus.js | Number of People in the Bus |
 | calculating-with-functions.js | Calculating with Functions |
 | primes-in-numbers.js | Primes in numbers |
+| are-they-same.js | Are they the "same"? |
