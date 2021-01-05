@@ -23,3 +23,4 @@
 | calculating-with-functions.js | Calculating with Functions |
 | primes-in-numbers.js | Primes in numbers |
 | are-they-same.js | Are they the "same"? |
+| reverse-or-rotate.js | Reverse or rotate? |
