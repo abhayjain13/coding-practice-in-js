@@ -24,3 +24,4 @@
 | primes-in-numbers.js | Primes in numbers |
 | are-they-same.js | Are they the "same"? |
 | reverse-or-rotate.js | Reverse or rotate? |
+| array-diff.js | Array.diff |
