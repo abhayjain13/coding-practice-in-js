@@ -28,3 +28,4 @@
 | rot13.js | Rot13 |
 | counting-duplicates.js | Counting Duplicates |
 | give-me-a-diamond.js | Give me a Diamond |
+| delete-occurrences.js | Delete occurrences of an element if it occurs more than n times |
