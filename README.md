@@ -30,3 +30,4 @@
 | give-me-a-diamond.js | Give me a Diamond |
 | delete-occurrences.js | Delete occurrences of an element if it occurs more than n times |
 | supermarket-queue.js | The Supermarket Queue |
+| highest-scoring-word.js | Highest Scoring Word |
