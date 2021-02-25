@@ -32,3 +32,4 @@
 | supermarket-queue.js | The Supermarket Queue |
 | highest-scoring-word.js | Highest Scoring Word |
 | mergeSort.js | Merge Sort |
+| selectionSort.js | Selection Sort |
