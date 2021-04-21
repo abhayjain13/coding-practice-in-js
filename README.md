@@ -31,5 +31,18 @@
 | delete-occurrences.js | Delete occurrences of an element if it occurs more than n times |
 | supermarket-queue.js | The Supermarket Queue |
 | highest-scoring-word.js | Highest Scoring Word |
+
+## Sorting Techniques
+
+| File Name                | Description                                 |
+| ------------------------ | ------------------------------------------- |
+| bubbleSort.js   | Bubble Sort |
+| countingSort.js | Counting Sort |
+| hashTable.js | Hash Table Sort |
+| heapSort.js | Heap Sort |
+| insertionSort.js | Insertion Sort |
 | mergeSort.js | Merge Sort |
+| selectionSort.js | Selection Sort |
+| quickSort.js | Quick Sort|
+| radixSort.js | Radix Sort |
 | selectionSort.js | Selection Sort |
